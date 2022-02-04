@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "31598255670",
+    "firebase_url": "https://jeumathmental.firebaseio.com",
+    "project_id": "jeumathmental",
+    "storage_bucket": "jeumathmental.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31598255670:android:52d1f75667f230b6a0c297",
+        "android_client_info": {
+          "package_name": "com.heni.jeumathmental"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31598255670-dlv1sdrk23jhu8nqa12g7afhq881672d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdnDCvRLrx790Srd9S03SCkuQ4p1bBCt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31598255670-dlv1sdrk23jhu8nqa12g7afhq881672d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31598255670:android:a2e28bacbdfbb685a0c297",
+        "android_client_info": {
+          "package_name": "com.heni.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31598255670-dlv1sdrk23jhu8nqa12g7afhq881672d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdnDCvRLrx790Srd9S03SCkuQ4p1bBCt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31598255670-dlv1sdrk23jhu8nqa12g7afhq881672d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-1279586502328921~9793995043"
+    }
+  ],
+  "configuration_version": "1"
+}

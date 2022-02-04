@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">jeuMathMental</string>
+    <string name="app_id" translatable="false">ca-app-pub-2435312715248777~5502918287</string>
+    <string name="banner_id" translatable="false">ca-app-pub-2435312715248777/2876754942</string>
+    <string name="InterstitialId" translatable="false">ca-app-pub-2435312715248777/3231978160</string>
+    <string name="rewardId" translatable="false">ca-app-pub-2435312715248777/1675160399</string>
+    <string name="calcul">Calculator</string>
+    <string name="TF">True/False</string>
+    <string name="equality">Equality</string>
+    <string name="memory">Memory</string>
+    <string name="math_mental">Math mental</string>
+    <string name="suit">Table of Grow</string>
+    <string name="record">record</string>
+    <string name="True">True</string>
+    <string name="False">False</string>
+    <string name="replay">Replay</string>
+    <string name="trouver_le_num"> find the number</string>
+    <string name="Notif_name">Math Game</string>
+    <string name="Notif_description">it is time for training</string>
+
+</resources>

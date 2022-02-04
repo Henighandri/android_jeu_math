@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">jeuMathMental</string>
+    <string name="TF">Vrai/Faux</string>
+    <string name="calcul">Calculatrice</string>
+    <string name="equality">Egalité</string>
+    <string name="memory">Memoire</string>
+    <string name="suit">table schulte</string>
+    <string name="record">record</string>
+    <string name="math_mental">Math mental</string>
+    <string name="False">Faux</string>
+    <string name="True">Vrai</string>
+    <string name="replay">Rejouer</string>
+    <string name="trouver_le_num">trouver le numéro</string>
+    <string name="Notif_description">c\'est l\'heure de vous entraînement</string>
+    <string name="Notif_name">jeu de math</string>
+</resources>
